@@ -1,0 +1,17 @@
+# DuckDB database files and benchmark output
+duckdb-data/
+*.duckdb
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python / virtualenv
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+.env
